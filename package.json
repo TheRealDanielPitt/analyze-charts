@@ -8,7 +8,7 @@
     "body-parser": "^1.15.1",
     "forever": "^2.0.0",
     "helmet": "^2.0.0",
-    "marked": "0.3.5"
+    "marked": "0.8.2"
   },
   "comments": {
     "//": "a9 insecure components"
